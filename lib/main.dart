@@ -152,7 +152,7 @@ class _MyHomePageState extends State<MyHomePage> {
           textAlign: TextAlign.center,
           style: TextStyle(
             color: Colors.black,
-            fontSize: 60.0,
+            fontSize: 50.0,
           ),
         ),
       ),
